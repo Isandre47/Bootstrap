@@ -1,0 +1,27 @@
+.noir{
+    background-color: black;
+}
+
+.gris{
+    background-color: rgb(46, 46, 46);
+}
+
+.orange{
+    background-color: orangered; 
+}
+
+.jaune{
+    background-color: orange;
+}
+
+.container{
+    background-color: lightgray;
+}
+
+.border{
+    border: 2px solid lightgray;
+}
+
+.row{
+    height: 9.1%;
+}
